@@ -1,0 +1,10 @@
+{
+  "name": "aws-upload",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.907.0",
+    "dotenv": "^9.0.2"
+  }
+}
